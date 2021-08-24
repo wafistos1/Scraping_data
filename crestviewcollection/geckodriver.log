@@ -1,0 +1,123 @@
+1625943888735	geckodriver	INFO	Listening on 127.0.0.1:52201
+1625943888738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9Uqz9D"
+1625943889198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9Uqz9D/search.json.mozlz4", (void 0)))
+1625943890438	Marionette	INFO	Listening on port 43093
+1625943890452	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error writing request: getGrids"
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.crestviewcollection.com/categories/414925/all/products/cvfnr332/bengal-manor-light-mango-wood-cabinet, line 2076: TypeError: e is null
+1625958921428	geckodriver	INFO	Listening on 127.0.0.1:45627
+1625958921430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNRBVHs"
+1625958921851	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNRBVHs/search.json.mozlz4", (void 0)))
+1625958923121	Marionette	INFO	Listening on port 46037
+1625958923144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625958931072	Marionette	INFO	Stopped listening on port 46037
+1625958949632	geckodriver	INFO	Listening on 127.0.0.1:41101
+1625958950635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.517 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletMFyXG"
+1625958951119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletMFyXG/search.json.mozlz4", (void 0)))
+1625958952240	Marionette	INFO	Listening on port 37841
+1625958952347	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Bitter:400,700 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/icon?family=Material+Icons without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/flickity/2.0.10/flickity.css without a browsingContextID set
+JavaScript error: https://www.crestviewcollection.com/categories/414925/all/products/cvfnr766/donovan-cabinet, line 2064: TypeError: e is null
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626030719280	geckodriver	INFO	Listening on 127.0.0.1:59541
+1626030719282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler3Xo9x"
+1626030719771	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiler3Xo9x/search.json.mozlz4", (void 0)))
+1626030721271	Marionette	INFO	Listening on port 43199
+1626030721298	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626033346516	geckodriver	INFO	Listening on 127.0.0.1:36405
+1626033346519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenAXOhH"
+1626033346930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenAXOhH/search.json.mozlz4", (void 0)))
+1626033348050	Marionette	INFO	Listening on port 38633
+1626033348131	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626034984835	geckodriver	INFO	Listening on 127.0.0.1:43561
+1626034984837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/4E423F" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledtFxXY"
+1626034985324	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledtFxXY/search.json.mozlz4", (void 0)))
+1626034986687	Marionette	INFO	Listening on port 46271
+1626034986755	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.crestviewcollection.com/categories/414925/all/products/cvfnr738/bengal-manor-white-wash-texture-door-sideboard, line 2076: TypeError: e is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626037908778	geckodriver	INFO	Listening on 127.0.0.1:42045
+1626037908780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileedIy5Y"
+1626037909202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileedIy5Y/search.json.mozlz4", (void 0)))
+1626037910523	Marionette	INFO	Listening on port 42499
+1626037910617	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626043249726	geckodriver	INFO	Listening on 127.0.0.1:39653
+1626043249728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile97MICK"
+1626043250183	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile97MICK/search.json.mozlz4", (void 0)))
+1626043251591	Marionette	INFO	Listening on port 34201
+1626043251670	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1626245768154	geckodriver	INFO	Listening on 127.0.0.1:40939
+1626245768157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXcPhPs"
+1626245768585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXcPhPs/search.json.mozlz4", (void 0)))
+1626245769920	Marionette	INFO	Listening on port 32917
+1626245770023	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626246312033	geckodriver	INFO	Listening on 127.0.0.1:60019
+1626246312035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP1TtH5"
+1626246312458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP1TtH5/search.json.mozlz4", (void 0)))
+1626246313604	Marionette	INFO	Listening on port 33851
+1626246313648	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626268131608	Marionette	INFO	Stopped listening on port 33851
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

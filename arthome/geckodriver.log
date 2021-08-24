@@ -1,0 +1,202 @@
+1626285734659	geckodriver	INFO	Listening on 127.0.0.1:57849
+1626285734663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2117.157 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilendc9Kk"
+1626285735096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilendc9Kk/search.json.mozlz4", (void 0)))
+1626285736225	Marionette	INFO	Listening on port 46465
+1626285736275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://arthomefurnishings.com/, line 948: TypeError: dds is undefined
+JavaScript error: https://arthomefurnishings.com/shop/?product-category=bedroom, line 1705: TypeError: dds is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/WooCommerce-Magic-Grid/includes/shortcode/includes/shortcodes.css?ver=5.7.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/advanced-woo-search//includes/modules/divi/divi.css?ver=2.30 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-views/vendor/toolset/toolset-common/res/lib/bootstrap4/css/bootstrap.min.css?ver=4.5.3 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/toolset-maps/resources/css/toolset_maps_fixes.css?ver=2.0.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/dropbox-folder-share/src/css/front.css?ver=1595576491 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/blocks.style.build.css?ver=1624303686 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=5.1.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=5.1.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.7.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-views/public/css/views-frontend.css?ver=3.5.3 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/uploads/useanyfont/uaf.css?ver=1626284433 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/video-popup/css/vp-close-icon/close-button-icon.css?ver=1626285795 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/video-popup/css/YouTubePopUp.css?ver=1626285795 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce-print-products/public/css/woocommerce-print-products-public.css?ver=1.7.5 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css?ver=5.12.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce-product-filters/assets/css/plugin.css?ver=1.2.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.4.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.4.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.4.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-carousel-free/public/css/slick.min.css?ver=2.1.20 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-carousel-free/public/css/font-awesome.min.css?ver=2.1.20 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-carousel-free/public/css/wp-carousel-free-public.min.css?ver=2.1.20 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.2.234 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/advanced-woo-search//assets/css/common.css?ver=2.30 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/monarch/css/style.css?ver=1.4.14 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&ver=1.3.12 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-store-locator-widget/css/styles.min.css?ver=1.2.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/themes/Divi/style-cpt.dev.css?ver=5.7.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/themes/Divi-Child-Theme/style.css?ver=4.9.7 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/divi-section-tab-1/styles/style.min.css?ver=1626285795 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/gravitydivi-forms-customizer-module/styles/style.min.css?ver=2.1.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-views/vendor/toolset/divi/styles/style.min.css?ver=1.0.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1624303686 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1624303686 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1624303686 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1624303686 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-includes/css/dashicons.min.css?ver=5.7.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1624303686 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=4.9.7 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=4.9.7 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=5.4.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=5.4.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-views/vendor/toolset/blocks/public/css/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://arthomefurnishings.com/wp-content/et-cache/global/et-divi-customizer-cpt-global-162459270321.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://arthomefurnishings.com/wp-content/et-cache/global/et-divi-customizer-global-162459225031.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700,700italic,900italic,900&subset=latin,latin-ext,cyrillic without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/bloom/css/style.css?ver=1.3.12 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic&subset=latin,latin-ext&display=swap without a browsingContextID set
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://arthomefurnishings.com/shop/?product-category=bedroom, line 1705: TypeError: dds is undefined
+JavaScript error: https://arthomefurnishings.com/room-type/beds/, line 1504: TypeError: dds is undefined
+JavaScript error: https://arthomefurnishings.com/room-type/beds/, line 1504: TypeError: dds is undefined
+console.error: "Error writing request: getGrids"
+JavaScript error: https://arthomefurnishings.com/room-type/beds/, line 1504: TypeError: dds is undefined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript error: https://arthomefurnishings.com/room-type/beds/, line 1504: TypeError: dds is undefined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626288941303	geckodriver	INFO	Listening on 127.0.0.1:51799
+1626288942306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0XIghg"
+1626288942758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0XIghg/search.json.mozlz4", (void 0)))
+1626288944135	Marionette	INFO	Listening on port 43681
+1626288944242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://arthomefurnishings.com/, line 948: TypeError: dds is undefined
+JavaScript error: https://arthomefurnishings.com/room-type/beds/, line 1504: TypeError: dds is undefined
+JavaScript error: https://arthomefurnishings.com/shop/?product-category=bedroom, line 1705: TypeError: dds is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626289370126	geckodriver	INFO	Listening on 127.0.0.1:37135
+1626289370128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileupuSoX"
+1626289370547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileupuSoX/search.json.mozlz4", (void 0)))
+1626289371653	Marionette	INFO	Listening on port 38731
+1626289371741	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://arthomefurnishings.com/room-type/beds/, line 1504: TypeError: dds is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/WooCommerce-Magic-Grid/includes/shortcode/includes/shortcodes.css?ver=5.7.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/advanced-woo-search//includes/modules/divi/divi.css?ver=2.30 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-views/vendor/toolset/toolset-common/res/lib/bootstrap4/css/bootstrap.min.css?ver=4.5.3 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/toolset-maps/resources/css/toolset_maps_fixes.css?ver=2.0.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/dropbox-folder-share/src/css/front.css?ver=1595576491 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/blocks.style.build.css?ver=1624303686 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=5.1.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=5.1.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.7.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-views/public/css/views-frontend.css?ver=3.5.3 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/uploads/useanyfont/uaf.css?ver=1626290079 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/video-popup/css/vp-close-icon/close-button-icon.css?ver=1626290160 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/video-popup/css/YouTubePopUp.css?ver=1626290160 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce-print-products/public/css/woocommerce-print-products-public.css?ver=1.7.5 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css?ver=5.12.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce-product-filters/assets/css/plugin.css?ver=1.2.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=5.4.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=5.4.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.4.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.4.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.4.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-carousel-free/public/css/slick.min.css?ver=2.1.20 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-carousel-free/public/css/font-awesome.min.css?ver=2.1.20 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-carousel-free/public/css/wp-carousel-free-public.min.css?ver=2.1.20 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.2.234 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/advanced-woo-search//assets/css/common.css?ver=2.30 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/monarch/css/style.css?ver=1.4.14 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&ver=1.3.12 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-store-locator-widget/css/styles.min.css?ver=1.2.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/themes/Divi/style.dev.css?ver=5.7.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/themes/Divi-Child-Theme/style.css?ver=4.9.7 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/divi-section-tab-1/styles/style.min.css?ver=1626290159 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/gravitydivi-forms-customizer-module/styles/style.min.css?ver=2.1.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-views/vendor/toolset/divi/styles/style.min.css?ver=1.0.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic|Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=latin,latin-ext&display=swap without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1624303686 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1624303686 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1624303686 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1624303686 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-includes/css/dashicons.min.css?ver=5.7.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1624303686 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=4.9.7 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=4.9.7 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/wp-views/vendor/toolset/blocks/public/css/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://arthomefurnishings.com/wp-content/et-cache/global/et-divi-customizer-global-162459225031.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://arthomefurnishings.com/wp-content/et-cache/33931/et-core-unified-cpt-tb-6698-33931-162522959582.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700,700italic,900italic,900&subset=latin,latin-ext,cyrillic without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://20tb1g1nfzm2bjgyv1sj208o-wpengine.netdna-ssl.com/wp-content/plugins/bloom/css/style.css?ver=1.3.12 without a browsingContextID set
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626291011819	geckodriver	INFO	Listening on 127.0.0.1:37907
+1626291011822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1866.237 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0JXeDN"
+1626291012237	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0JXeDN/search.json.mozlz4", (void 0)))
+1626291013520	Marionette	INFO	Listening on port 43489
+1626291013533	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626291319149	geckodriver	INFO	Listening on 127.0.0.1:48195
+1626291319151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIyYJmK"
+1626291319619	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIyYJmK/search.json.mozlz4", (void 0)))
+1626291321113	Marionette	INFO	Listening on port 37443
+1626291321168	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626291375632	geckodriver	INFO	Listening on 127.0.0.1:59131
+1626291376635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20130401 Firefox/21.0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2201LN"
+1626291377054	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2201LN/search.json.mozlz4", (void 0)))
+1626291378143	Marionette	INFO	Listening on port 34191
+1626291378247	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626294602859	geckodriver	INFO	Listening on 127.0.0.1:53591
+1626294602861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6m8ZjX"
+1626294603296	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6m8ZjX/search.json.mozlz4", (void 0)))
+1626294604385	Marionette	INFO	Listening on port 34255
+1626294604473	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626517457432	Marionette	INFO	Stopped listening on port 34255
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

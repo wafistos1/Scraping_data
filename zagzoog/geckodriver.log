@@ -1,0 +1,653 @@
+1629047434289	geckodriver	INFO	Listening on 127.0.0.1:33547
+1629047434294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexXRiwt"
+1629047434750	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexXRiwt/search.json.mozlz4", (void 0)))
+1629047436086	Marionette	INFO	Listening on port 32829
+1629047436111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://zagzoog.com/arabic/details?id=79-Zagzoog, line 1: ReferenceError: datlayer is not defined
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1629051308737	geckodriver	INFO	Listening on 127.0.0.1:42119
+1629051309740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.14 (KHTML, like Gecko) Chrome/24.0.1292.0 Safari/537.14" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZeNj73"
+1629051310244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZeNj73/search.json.mozlz4", (void 0)))
+1629051311358	Marionette	INFO	Listening on port 38799
+1629051311452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Montserrat:400,700&subset=latin%2Clatin-ext without a browsingContextID set
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: "Error writing request: getGrids"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle29 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://assetscdn-wchat.freshchat.com/static/assets/fc_web_widget-991a8a361a4a8b0206352fc3fff2363b.js, line 941: TypeError: t is undefined
+console.error: "Error writing request: getGrids"
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+1629130539374	geckodriver	INFO	Listening on 127.0.0.1:35315
+1629130539377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36 Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaOBux3"
+1629130539897	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaOBux3/search.json.mozlz4", (void 0)))
+1629130541107	Marionette	INFO	Listening on port 42683
+1629130541224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1629145663883	geckodriver	INFO	Listening on 127.0.0.1:50857
+1629145664888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile83W3UG"
+1629145665400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile83W3UG/search.json.mozlz4", (void 0)))
+1629145666502	Marionette	INFO	Listening on port 41093
+1629145666641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1629147540741	geckodriver	INFO	Listening on 127.0.0.1:48503
+1629147540745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePxnyvB"
+1629147541262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePxnyvB/search.json.mozlz4", (void 0)))
+1629147542462	Marionette	INFO	Listening on port 44387
+1629147542585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629147551106	geckodriver	INFO	Listening on 127.0.0.1:58621
+1629147551109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20120101 Firefox/29.0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAPeB70"
+1629147551627	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAPeB70/search.json.mozlz4", (void 0)))
+1629147552937	Marionette	INFO	Listening on port 39267
+1629147553033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629147555636	Marionette	INFO	Stopped listening on port 44387
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1629148027890	geckodriver	INFO	Listening on 127.0.0.1:41583
+1629148028901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.90 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4z7EdF"
+1629148029475	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4z7EdF/search.json.mozlz4", (void 0)))
+1629148030545	Marionette	INFO	Listening on port 43969
+1629148030651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1629148253911	geckodriver	INFO	Listening on 127.0.0.1:36825
+1629148254922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUjZdAw"
+1629148255502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUjZdAw/search.json.mozlz4", (void 0)))
+1629148256549	Marionette	INFO	Listening on port 44329
+1629148256642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1629148355337	geckodriver	INFO	Listening on 127.0.0.1:41703
+1629148355339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 5.0; rv:21.0) Gecko/20100101 Firefox/21.0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYJSRFE"
+1629148355853	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYJSRFE/search.json.mozlz4", (void 0)))
+1629148357131	Marionette	INFO	Listening on port 44179
+1629148357151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1629148462070	geckodriver	INFO	Listening on 127.0.0.1:42073
+1629148463082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePfNQdr"
+1629148463648	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePfNQdr/search.json.mozlz4", (void 0)))
+1629148465034	Marionette	INFO	Listening on port 46347
+1629148465097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 214: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1629149224816	geckodriver	INFO	Listening on 127.0.0.1:37843
+1629149225827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:16.0.1) Gecko/20121011 Firefox/21.0.1" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevbmLd2"
+1629149226406	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevbmLd2/search.json.mozlz4", (void 0)))
+1629149227358	Marionette	INFO	Listening on port 35211
+1629149227443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Montserrat:400,700&subset=latin%2Clatin-ext without a browsingContextID set
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+1629192285695	Marionette	INFO	Stopped listening on port 35211
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629299965046	geckodriver	INFO	Listening on 127.0.0.1:44591
+1629299965049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOvolms"
+1629299965509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOvolms/search.json.mozlz4", (void 0)))
+1629299966646	Marionette	INFO	Listening on port 38979
+1629299966668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+1629393097403	geckodriver	INFO	Listening on 127.0.0.1:42971
+1629393098405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1467.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYQ8zhc"
+1629393099005	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYQ8zhc/search.json.mozlz4", (void 0)))
+1629393101187	Marionette	INFO	Listening on port 40489
+1629393101249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 218: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-1325b9bc2303952847befba377e57961.js, line 6968: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
