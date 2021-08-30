@@ -772,3 +772,579 @@ JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILU
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1630011245011	geckodriver	INFO	Listening on 127.0.0.1:58433
+1630011245015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-us) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOuzjhL"
+1630011245574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOuzjhL/search.json.mozlz4", (void 0)))
+1630011246977	Marionette	INFO	Listening on port 45453
+1630011247032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/sectional-sofa.html, line 3483: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/sectional-sofa.html, line 3483: ReferenceError: Meanbee is not defined
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/sofa-sets.html, line 3539: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/sofas-love-seats.html, line 3483: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/sofa-beds.html, line 2742: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/chairs.html, line 3575: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/bench-and-ottoman.html, line 3539: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/center-side-tables.html, line 3481: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/center-tables.html, line 3521: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/end-tables.html, line 3587: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/consoles.html, line 3551: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/nested-tables.html, line 3407: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/stands.html, line 3373: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/tv-units.html, line 3479: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/cabinets.html, line 3457: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/shoe-cabinets.html, line 3132: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/shelves.html, line 3451: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets.html, line 3627: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/king-size-bedroom-sets.html, line 3530: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/beds.html, line 3018: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/night-stands.html, line 2616: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/dresser.html, line 2808: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/wardrobes.html, line 3419: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/jewellery-chest.html, line 2352: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/queen-size-bedroom-sets.html, line 95: ReferenceError: Mage is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/queen-size-bedroom-sets.html, line 110: ReferenceError: Translate is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/queen-size-bedroom-sets.html, line 127: ReferenceError: Varien is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/queen-size-bedroom-sets.html, line 447: ReferenceError: decorateList is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/queen-size-bedroom-sets.html, line 495: ReferenceError: decorateDataList is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/queen-size-bedroom-sets.html, line 524: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/chest-of-drawers.html, line 96: ReferenceError: Mage is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/chest-of-drawers.html, line 111: ReferenceError: Translate is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/chest-of-drawers.html, line 128: ReferenceError: Varien is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/chest-of-drawers.html, line 453: ReferenceError: decorateList is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/chest-of-drawers.html, line 513: ReferenceError: decorateDataList is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/chest-of-drawers.html, line 542: ReferenceError: VarienForm is not defined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/bedroom-sets/chest-of-drawers/page/3.html, line 3941: ReferenceError: Meanbee is not defined
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/dining-rooms/dining-table-sets.html, line 3527: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/dining-rooms/dining-tables.html, line 3475: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/dining-rooms/dining-chairs.html, line 3517: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/dining-rooms/buffet.html, line 3493: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/dining-rooms/high-dining-table-sets.html, line 3407: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/dining-rooms/high-stool-chairs.html, line 3425: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/dining-rooms/counter-tables.html, line 3300: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/recliners/rocker-recliner.html, line 3439: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/recliners/recliner.html, line 3407: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/recliners/sofa-recliner.html, line 2838: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/recliners/power-massage-recliner.html, line 2454: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/kids-room/bedroom-set.html, line 2448: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/kids-room/beds.html, line 2880: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/kids-room/night-stands.html, line 2227: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/kids-room/dressers.html, line 2173: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/kids-room/chest-of-drawers.html, line 2173: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/kids-room/wardrobes.html, line 2125: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/kids-room/study-desk-chairs.html, line 2275: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/kids-room/bookcases-shelves.html, line 2173: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/home-office/desks.html, line 3457: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/home-office/chairs.html, line 2622: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/mattresses/super-king-size-200-200cm.html, line 2077: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/mattresses/super-king-size-193-203cm.html, line 2524: ReferenceError: Meanbee is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/mattresses/king-size-180-200cm.html, line 2476: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/mattresses/queen-size-150-200cm.html, line 2524: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/mattresses/full-size-135-190.html, line 2188: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/mattresses/single-size-90-100x190cm.html, line 2236: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/gaming-chairs.html, line 2346: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/pet-furniture.html, line 2834: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/outdoor-furniture.html, line 3421: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/office-furniture/office-chairs.html, line 3454: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/office-furniture/office-chairs/high-back.html, line 3588: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/office-furniture/office-chairs/medium-back.html, line 2636: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/office-furniture/office-chairs/low-back.html, line 2500: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/office-furniture/visitor-chairs.html, line 3391: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/office-furniture/desks-office-systems.html, line 3409: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/office-furniture/office-sofas.html, line 3415: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/office-furniture/cabinets.html, line 3262: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/office-furniture/meeting-center-end-tables.html, line 3414: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/office-furniture/office-accessories.html, line 2229: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining.html, line 3575: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/dinner-sets.html, line 2560: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/dinner-and-serving-plates.html, line 3391: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/condiment-storage.html, line 2634: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/condiment-storage.html, line 2323: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/cups-and-saucers.html, line 4138: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/tea-and-sugar-pots.html, line 2173: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/trays.html, line 4174: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/tiered-stand.html, line 4148: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/baskets.html, line 2873: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/cutlery-sets.html, line 2498: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/jars.html, line 4148: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/napkin-rings-and-holders.html, line 3275: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/drinking-glasses-jugs.html, line 4136: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/kitchen-and-dining/bowls.html, line 4170: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/table-linen.html, line 4275: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/table-linen/table-runners.html, line 3473: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/table-linen/place-mats.html, line 3515: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/table-linen/table-runners/page/5.html, line 2928: ReferenceError: Meanbee is not defined
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/table-linen/place-mats/page/5.html, line 4273: ReferenceError: Meanbee is not defined
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/serving-trolleys.html, line 3457: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/bathroom.html, line 3537: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/bathroom/soap-dish.html, line 2431: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/bathroom/soap-dispenser.html, line 2880: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/bathroom/tumbler-and-tooth-brush-holders.html, line 2688: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/bathroom/toilet-paper-and-brush-holder.html, line 2131: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/bathroom/towel-holder-and-racks.html, line 2228: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/bathroom/towels.html, line 2935: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/bathroom/laundry-baskets.html, line 2598: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/bathroom/tissue-box.html, line 2988: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/bathroom/waste-bins.html, line 2873: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/bathroom/bathroom-mats.html, line 2077: ReferenceError: Meanbee is not defined
+1630012320188	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/candle-holders.html, line 3493: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/vases-and-flowers.html, line 3529: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/artificial-flowers-and-trees.html, line 3532: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/artificial-flowers-and-trees/flowers-and-plants.html, line 3515: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/artificial-flowers-and-trees/trees.html, line 3001: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/artificial-flowers-and-trees/flowers-and-plants/page/10.html, line 2562: ReferenceError: Meanbee is not defined
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/lighting.html, line 3456: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/lighting/table-lamps.html, line 3437: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/lighting/hanging-and-ceiling-lamps.html, line 3362: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/lighting/floor-lamps.html, line 2671: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/lighting/wall-lamp.html, line 3366: ReferenceError: Meanbee is not defined
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/photo-frames.html, line 3385: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/wall-arts-and-paintings.html, line 3499: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/wall-arts-and-paintings/page/17.html, line 3485: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/mirrors.html, line 3511: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/coat-hangers-screens.html, line 3439: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/clocks.html, line 3451: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/jewellery-organisers-box.html, line 2792: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/deco-figurines-and-objects.html, line 3487: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/ashtrays.html, line 3118: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/soft-furnishings.html, line 3606: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/soft-furnishings/bedding-set.html, line 2367: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/soft-furnishings/cushions.html, line 3587: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/soft-furnishings/throws.html, line 2790: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/soft-furnishings/sleeping-pillows.html, line 2173: ReferenceError: Meanbee is not defined
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/soft-furnishings/cushions/page/5.html, line 4345: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/soft-furnishings/cushions/page/21.html, line 3816: ReferenceError: Meanbee is not defined
+[Parent 37703, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/doormats.html, line 2169: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/accessories/safes.html, line 3345: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/luxury-accessories/mugs.html, line 2265: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/luxury-accessories/cups-and-saucer-sets.html, line 3356: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/luxury-accessories/cups-and-saucers.html, line 3922: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/luxury-accessories/dinnerware.html, line 3362: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/luxury-accessories/drinking-dispenser.html, line 2488: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/luxury-accessories/drinking-glasses-sets.html, line 3032: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/luxury-accessories/serving-bowls.html, line 3391: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/luxury-accessories/cutleries.html, line 1888: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/luxury-accessories/condiment-storage.html, line 2896: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/luxury-accessories/napkin-rings-and-holders.html, line 2500: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/luxury-accessories/trays.html, line 3074: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/luxury-accessories/dinner-sets.html, line 2169: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/sectional-sofa.html, line 3483: ReferenceError: Meanbee is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/kellway-sectional-sofa.html, line 67: ReferenceError: Mage is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/kellway-sectional-sofa.html, line 82: ReferenceError: Translate is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/kellway-sectional-sofa.html, line 99: ReferenceError: Varien is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/kellway-sectional-sofa.html, line 142: ReferenceError: Product is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/kellway-sectional-sofa.html, line 198: TypeError: Event.observe is not a function
+JavaScript error: https://midasfurniture.com/ksa_ar/kellway-sectional-sofa.html, line 240: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/kellway-sectional-sofa.html, line 304: ReferenceError: decorateTable is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/kellway-sectional-sofa.html, line 324: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/kellway-sectional-sofa.html, line 336: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/harper-console.html, line 67: ReferenceError: Mage is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/harper-console.html, line 82: ReferenceError: Translate is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/harper-console.html, line 99: ReferenceError: Varien is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/harper-console.html, line 142: ReferenceError: Product is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/harper-console.html, line 195: TypeError: Event.observe is not a function
+JavaScript error: https://midasfurniture.com/ksa_ar/harper-console.html, line 234: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/harper-console.html, line 298: ReferenceError: decorateTable is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/harper-console.html, line 318: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/harper-console.html, line 330: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/totem-bed-mattress-size-90-200-cm.html, line 67: ReferenceError: Mage is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/totem-bed-mattress-size-90-200-cm.html, line 82: ReferenceError: Translate is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/totem-bed-mattress-size-90-200-cm.html, line 99: ReferenceError: Varien is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/totem-bed-mattress-size-90-200-cm.html, line 130: ReferenceError: Product is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/totem-bed-mattress-size-90-200-cm.html, line 184: TypeError: Event.observe is not a function
+JavaScript error: https://midasfurniture.com/ksa_ar/totem-bed-mattress-size-90-200-cm.html, line 217: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/totem-bed-mattress-size-90-200-cm.html, line 281: ReferenceError: decorateTable is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/totem-bed-mattress-size-90-200-cm.html, line 301: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/totem-bed-mattress-size-90-200-cm.html, line 313: SyntaxError: expected expression, got ';'
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 67: ReferenceError: Mage is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 82: ReferenceError: Translate is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 99: ReferenceError: Varien is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 130: ReferenceError: Product is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 183: TypeError: Event.observe is not a function
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 213: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 277: ReferenceError: decorateTable is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 297: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 309: SyntaxError: expected expression, got ';'
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 67: ReferenceError: Mage is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 82: ReferenceError: Translate is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 99: ReferenceError: Varien is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 130: ReferenceError: Product is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 183: TypeError: Event.observe is not a function
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 213: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 277: ReferenceError: decorateTable is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 297: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/cottage-road-desk-6149.html, line 309: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/simas-planter-medium.html, line 2783: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://midasfurniture.com/ksa_ar/rasdan-planter-large.html, line 2783: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://midasfurniture.com/ksa_ar/rasdan-planter-small.html, line 2783: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://midasfurniture.com/ksa_ar/duke-artificial-plant.html, line 67: ReferenceError: Mage is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/duke-artificial-plant.html, line 82: ReferenceError: Translate is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/duke-artificial-plant.html, line 99: ReferenceError: Varien is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/duke-artificial-plant.html, line 142: ReferenceError: Product is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/duke-artificial-plant.html, line 200: TypeError: Event.observe is not a function
+JavaScript error: https://midasfurniture.com/ksa_ar/duke-artificial-plant.html, line 221: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/duke-artificial-plant.html, line 285: ReferenceError: decorateTable is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/duke-artificial-plant.html, line 305: ReferenceError: VarienForm is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/duke-artificial-plant.html, line 317: SyntaxError: expected expression, got ';'
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/consoles.html, line 3551: ReferenceError: Meanbee is not defined
+JavaScript error: https://midasfurniture.com/ksa_ar/home-furniture/living-rooms/sectional-sofa.html, line 3483: ReferenceError: Meanbee is not defined
+1630089722959	geckodriver	INFO	Listening on 127.0.0.1:34771
+1630089722962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqdLUFh"
+1630089723419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqdLUFh/search.json.mozlz4", (void 0)))
+1630089724501	Marionette	INFO	Listening on port 37605
+1630089724574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+1630091048590	Marionette	INFO	Stopped listening on port 37605
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630169594378	geckodriver	INFO	Listening on 127.0.0.1:44061
+1630169594380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1309.0 Safari/537.17" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet0ZDFJ"
+1630169594928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilet0ZDFJ/search.json.mozlz4", (void 0)))
+1630169596031	Marionette	INFO	Listening on port 33597
+1630169596097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 306: unreachable code after return statement
+1630188240170	Marionette	INFO	Stopped listening on port 33597
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630192863397	Marionette	INFO	Stopped listening on port 45453
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://activity-stream/lib/ASRouterTriggerListeners.jsm, line 548: TypeError: Services.wm.getMostRecentBrowserWindow() is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
