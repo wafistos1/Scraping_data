@@ -1,0 +1,1934 @@
+1630407205347	geckodriver	INFO	Listening on 127.0.0.1:54609
+1630407206338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.2 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNtmFxe"
+1630407206883	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNtmFxe/search.json.mozlz4", (void 0)))
+1630407208100	Marionette	INFO	Listening on port 37871
+1630407208190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630407210475	Marionette	INFO	Stopped listening on port 37871
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630407212628	geckodriver	INFO	Listening on 127.0.0.1:35991
+1630407212630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD9rjZ8"
+1630407213102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD9rjZ8/search.json.mozlz4", (void 0)))
+1630407214248	Marionette	INFO	Listening on port 40771
+1630407214353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630407264125	Marionette	INFO	Stopped listening on port 40771
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 12240, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-RJh93w/firefox-91.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630407311727	geckodriver	INFO	Listening on 127.0.0.1:45947
+1630407311731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA0ylAU"
+1630407312231	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA0ylAU/search.json.mozlz4", (void 0)))
+1630407313717	Marionette	INFO	Listening on port 35607
+1630407313744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630407376648	geckodriver	INFO	Listening on 127.0.0.1:58121
+1630407376653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileihQ3Gn"
+1630407377168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileihQ3Gn/search.json.mozlz4", (void 0)))
+1630407378742	Marionette	INFO	Listening on port 44993
+1630407378770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630407433492	Marionette	INFO	Stopped listening on port 44993
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.warn: "Resource  of root-node was not found."
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.warn: "Resource  of root-node was not found."
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.warn: "Resource  of root-node was not found."
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1630432256438	geckodriver	INFO	Listening on 127.0.0.1:43223
+1630432256442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1nciiq"
+1630432256983	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1nciiq/search.json.mozlz4", (void 0)))
+1630432258203	Marionette	INFO	Listening on port 45197
+1630432258258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1630433040056	geckodriver	INFO	Listening on 127.0.0.1:52827
+1630433040059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Th2C4"
+1630433040549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6Th2C4/search.json.mozlz4", (void 0)))
+1630433041796	Marionette	INFO	Listening on port 39087
+1630433041900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1630435190580	geckodriver	INFO	Listening on 127.0.0.1:60039
+1630435190584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehRKXzs"
+1630435191058	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehRKXzs/search.json.mozlz4", (void 0)))
+1630435192305	Marionette	INFO	Listening on port 36785
+1630435192447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1630435310927	geckodriver	INFO	Listening on 127.0.0.1:55623
+1630435310931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.517 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileofI53q"
+1630435311428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileofI53q/search.json.mozlz4", (void 0)))
+1630435312629	Marionette	INFO	Listening on port 41685
+1630435312649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.moeshomecollection.com/wp-content/mu-plugins/moes/assets/css/sweetalert.min.css?ver=5.3.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.moeshomecollection.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.moeshomecollection.com/wp-includes/css/dashicons.min.css?ver=5.3.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.moeshomecollection.com/wp-content/themes/moes/jolanew/css/jolanew.css?ver=5.3.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.moeshomecollection.com/wp-content/plugins/dotmailer-wordpress-plugin/css/dotmailer.css?ver=5.3.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.moeshomecollection.com/wp-content/themes/moes/vendor/image-scroll/image-scroll.css?ver=1.0 without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1630435870506	geckodriver	INFO	Listening on 127.0.0.1:59563
+1630435871517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:23.0) Gecko/20131011 Firefox/23.0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9Y3UM9"
+1630435872029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9Y3UM9/search.json.mozlz4", (void 0)))
+1630435873200	Marionette	INFO	Listening on port 33825
+1630435873231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1630435910440	geckodriver	INFO	Listening on 127.0.0.1:47915
+1630435910443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2117.157 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTiiEo9"
+1630435910897	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTiiEo9/search.json.mozlz4", (void 0)))
+1630435911983	Marionette	INFO	Listening on port 40975
+1630435912056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630436707375	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1630437170079	geckodriver	INFO	Listening on 127.0.0.1:51651
+1630437171090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (X11; CrOS i686 3912.101.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebj62vI"
+1630437171669	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebj62vI/search.json.mozlz4", (void 0)))
+1630437172785	Marionette	INFO	Listening on port 41043
+1630437172813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.moeshomecollection.com/wp-content/mu-plugins/moes/assets/css/sweetalert.min.css?ver=5.3.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.moeshomecollection.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.moeshomecollection.com/wp-includes/css/dashicons.min.css?ver=5.3.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.moeshomecollection.com/wp-content/themes/moes/jolanew/css/jolanew.css?ver=5.3.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.moeshomecollection.com/wp-content/plugins/dotmailer-wordpress-plugin/css/dotmailer.css?ver=5.3.2 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.moeshomecollection.com/wp-content/themes/moes/vendor/image-scroll/image-scroll.css?ver=1.0 without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+1630442497955	Marionette	INFO	Stopped listening on port 41043
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630496037535	geckodriver	INFO	Listening on 127.0.0.1:36789
+1630496038538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF0fz0i"
+1630496038999	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF0fz0i/search.json.mozlz4", (void 0)))
+1630496040029	Marionette	INFO	Listening on port 35309
+1630496040054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630496056714	Marionette	INFO	Stopped listening on port 35309
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630496325633	geckodriver	INFO	Listening on 127.0.0.1:38627
+1630496325636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMw7JV5"
+1630496326081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMw7JV5/search.json.mozlz4", (void 0)))
+1630496327161	Marionette	INFO	Listening on port 36031
+1630496327249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630496330939	Marionette	INFO	Stopped listening on port 36031
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630496618756	geckodriver	INFO	Listening on 127.0.0.1:39677
+1630496618759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehlROrm"
+1630496619231	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehlROrm/search.json.mozlz4", (void 0)))
+1630496620492	Marionette	INFO	Listening on port 34233
+1630496620573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630496628224	Marionette	INFO	Stopped listening on port 34233
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630496655875	geckodriver	INFO	Listening on 127.0.0.1:59515
+1630496655877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL5ipHt"
+1630496656393	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL5ipHt/search.json.mozlz4", (void 0)))
+1630496657679	Marionette	INFO	Listening on port 37257
+1630496657695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630496712223	geckodriver	INFO	Listening on 127.0.0.1:37889
+1630496712226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemG4w4a"
+1630496712722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemG4w4a/search.json.mozlz4", (void 0)))
+1630496714025	Marionette	INFO	Listening on port 46267
+1630496714048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630496721463	Marionette	INFO	Stopped listening on port 46267
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630496723716	Marionette	INFO	Stopped listening on port 37257
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630496745692	geckodriver	INFO	Listening on 127.0.0.1:33715
+1630496745694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev51nQT"
+1630496746203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev51nQT/search.json.mozlz4", (void 0)))
+1630496747473	Marionette	INFO	Listening on port 46635
+1630496747510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630496753429	Marionette	INFO	Stopped listening on port 46635
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630496976148	geckodriver	INFO	Listening on 127.0.0.1:48123
+1630496977159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0rCHOI"
+1630496977732	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0rCHOI/search.json.mozlz4", (void 0)))
+1630496978730	Marionette	INFO	Listening on port 45177
+1630496978777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630496982839	Marionette	INFO	Stopped listening on port 45177
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630497680291	geckodriver	INFO	Listening on 127.0.0.1:44707
+1630497680294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGHuDBj"
+1630497680807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGHuDBj/search.json.mozlz4", (void 0)))
+1630497682043	Marionette	INFO	Listening on port 38183
+1630497682108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630497688955	Marionette	INFO	Stopped listening on port 38183
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630497760510	geckodriver	INFO	Listening on 127.0.0.1:57297
+1630497760515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 3.0)" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKGPDk4"
+1630497761004	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKGPDk4/search.json.mozlz4", (void 0)))
+1630497762230	Marionette	INFO	Listening on port 42425
+1630497762361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630497762373	geckodriver	INFO	Listening on 127.0.0.1:50589
+1630497762376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 3.0)" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegjOVB5"
+1630497762753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegjOVB5/search.json.mozlz4", (void 0)))
+1630497763972	Marionette	INFO	Listening on port 34519
+1630497763991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630497765279	Marionette	INFO	Stopped listening on port 34519
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630497766696	Marionette	INFO	Stopped listening on port 42425
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630497777818	geckodriver	INFO	Listening on 127.0.0.1:57743
+1630497777821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileenQlyK"
+1630497778309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileenQlyK/search.json.mozlz4", (void 0)))
+1630497779632	Marionette	INFO	Listening on port 42461
+1630497779771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630497782017	Marionette	INFO	Stopped listening on port 42461
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630497809235	geckodriver	INFO	Listening on 127.0.0.1:43799
+1630497809239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXGMVeH"
+1630497809748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXGMVeH/search.json.mozlz4", (void 0)))
+1630497811215	Marionette	INFO	Listening on port 45033
+1630497811293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630497818896	Marionette	INFO	Stopped listening on port 45033
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630498172672	geckodriver	INFO	Listening on 127.0.0.1:46379
+1630498172676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev7zpYr"
+1630498173161	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev7zpYr/search.json.mozlz4", (void 0)))
+1630498174331	Marionette	INFO	Listening on port 33759
+1630498174392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/Q_rrUPkK1sXoHi4wbuDTgcQR/styles__ltr.css without a browsingContextID set
+1630498329878	geckodriver	INFO	Listening on 127.0.0.1:34201
+1630498330890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEw3TlA"
+1630498331406	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEw3TlA/search.json.mozlz4", (void 0)))
+1630498332502	Marionette	INFO	Listening on port 42837
+1630498332603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630498365845	Marionette	INFO	Stopped listening on port 42837
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630498373174	Marionette	INFO	Stopped listening on port 33759
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630498386175	geckodriver	INFO	Listening on 127.0.0.1:48165
+1630498386179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileobGPgg"
+1630498386655	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileobGPgg/search.json.mozlz4", (void 0)))
+1630498387821	Marionette	INFO	Listening on port 45091
+1630498387927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630498423734	geckodriver	INFO	Listening on 127.0.0.1:32981
+1630498423736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew0v4IW"
+1630498424222	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew0v4IW/search.json.mozlz4", (void 0)))
+1630498425562	Marionette	INFO	Listening on port 40725
+1630498425675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/Q_rrUPkK1sXoHi4wbuDTgcQR/styles__ltr.css without a browsingContextID set
+1630498489894	geckodriver	INFO	Listening on 127.0.0.1:60673
+1630498489897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqhpXME"
+1630498490378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqhpXME/search.json.mozlz4", (void 0)))
+1630498491555	Marionette	INFO	Listening on port 42015
+1630498491612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630498514140	Marionette	INFO	Stopped listening on port 42015
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630498515366	Marionette	INFO	Stopped listening on port 40725
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630498517256	geckodriver	INFO	Listening on 127.0.0.1:45327
+1630498517259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN9O9n4"
+1630498517774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN9O9n4/search.json.mozlz4", (void 0)))
+1630498518978	Marionette	INFO	Listening on port 38725
+1630498519104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1630498679497	Marionette	INFO	Stopped listening on port 38725
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630499131190	geckodriver	INFO	Listening on 127.0.0.1:46581
+1630499131192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRk4P3y"
+1630499131681	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRk4P3y/search.json.mozlz4", (void 0)))
+1630499132894	Marionette	INFO	Listening on port 37087
+1630499132909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630499155908	Marionette	INFO	Stopped listening on port 37087
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630510695967	geckodriver	INFO	Listening on 127.0.0.1:56317
+1630510696971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOZQY6h"
+1630510697495	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOZQY6h/search.json.mozlz4", (void 0)))
+1630510698778	Marionette	INFO	Listening on port 33533
+1630510698916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630510703262	Marionette	INFO	Stopped listening on port 33533
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630510903965	geckodriver	INFO	Listening on 127.0.0.1:44499
+1630510904976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezdEkOF"
+1630510905509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezdEkOF/search.json.mozlz4", (void 0)))
+1630510906805	Marionette	INFO	Listening on port 41125
+1630510906899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630510916746	Marionette	INFO	Stopped listening on port 41125
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630511191864	geckodriver	INFO	Listening on 127.0.0.1:53679
+1630511191867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu6x1sc"
+1630511192357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu6x1sc/search.json.mozlz4", (void 0)))
+1630511193442	Marionette	INFO	Listening on port 43101
+1630511193482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630511311376	Marionette	INFO	Stopped listening on port 43101
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630511313370	geckodriver	INFO	Listening on 127.0.0.1:38173
+1630511313372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUjLa9q"
+1630511313876	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUjLa9q/search.json.mozlz4", (void 0)))
+1630511315092	Marionette	INFO	Listening on port 41397
+1630511315216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/Q_rrUPkK1sXoHi4wbuDTgcQR/styles__ltr.css without a browsingContextID set
+console.warn: "Resource  of root-node was not found."
+1630511475564	Marionette	INFO	Stopped listening on port 41397
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630511481660	geckodriver	INFO	Listening on 127.0.0.1:55909
+1630511481663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG0aVwQ"
+1630511482122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG0aVwQ/search.json.mozlz4", (void 0)))
+1630511483192	Marionette	INFO	Listening on port 43841
+1630511483278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/Q_rrUPkK1sXoHi4wbuDTgcQR/styles__ltr.css without a browsingContextID set
+1630511574376	Marionette	INFO	Stopped listening on port 43841
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630511581415	geckodriver	INFO	Listening on 127.0.0.1:35181
+1630511582418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMePZJ1"
+1630511582877	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMePZJ1/search.json.mozlz4", (void 0)))
+1630511584006	Marionette	INFO	Listening on port 41887
+1630511584041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630511607510	Marionette	INFO	Stopped listening on port 41887
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630511612716	geckodriver	INFO	Listening on 127.0.0.1:38477
+1630511613721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehkCMhi"
+1630511614215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehkCMhi/search.json.mozlz4", (void 0)))
+1630511615297	Marionette	INFO	Listening on port 34281
+1630511615335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630511671685	Marionette	INFO	Stopped listening on port 34281
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630511680893	geckodriver	INFO	Listening on 127.0.0.1:60885
+1630511681896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEiKot6"
+1630511682383	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEiKot6/search.json.mozlz4", (void 0)))
+1630511683428	Marionette	INFO	Listening on port 37845
+1630511683509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630511711158	geckodriver	INFO	Listening on 127.0.0.1:52293
+1630511711161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW8QFKY"
+1630511711650	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW8QFKY/search.json.mozlz4", (void 0)))
+1630511712553	Marionette	INFO	Stopped listening on port 37845
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630511712846	Marionette	INFO	Listening on port 43107
+1630511712875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630511717115	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1630511717910	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1630511727029	Marionette	INFO	Stopped listening on port 45091
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630511732462	Marionette	INFO	Stopped listening on port 43107
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630511947001	geckodriver	INFO	Listening on 127.0.0.1:41551
+1630511948004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileizuqtg"
+1630511948514	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileizuqtg/search.json.mozlz4", (void 0)))
+1630511949583	Marionette	INFO	Listening on port 33815
+1630511949616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.booking.com"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/Q_rrUPkK1sXoHi4wbuDTgcQR/styles__ltr.css without a browsingContextID set
+1630512020161	Marionette	INFO	Stopped listening on port 33815
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630512023674	geckodriver	INFO	Listening on 127.0.0.1:55657
+1630512023677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBdh2Ry"
+1630512024151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBdh2Ry/search.json.mozlz4", (void 0)))
+1630512025388	Marionette	INFO	Listening on port 42703
+1630512025512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630512057774	Marionette	INFO	Stopped listening on port 42703
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630512065131	geckodriver	INFO	Listening on 127.0.0.1:59811
+1630512066143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKjWdFg"
+1630512066701	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKjWdFg/search.json.mozlz4", (void 0)))
+1630512067732	Marionette	INFO	Listening on port 46385
+1630512067758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630512080211	Marionette	INFO	Stopped listening on port 46385
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630512093545	geckodriver	INFO	Listening on 127.0.0.1:52751
+1630512094557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyPrmM9"
+1630512095122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyPrmM9/search.json.mozlz4", (void 0)))
+1630512096294	Marionette	INFO	Listening on port 41331
+1630512096388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/Q_rrUPkK1sXoHi4wbuDTgcQR/styles__ltr.css without a browsingContextID set
+1630512216353	geckodriver	INFO	Listening on 127.0.0.1:49413
+1630512216356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1m57uS"
+1630512216870	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1m57uS/search.json.mozlz4", (void 0)))
+1630512218130	Marionette	INFO	Listening on port 35097
+1630512218198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630512218337	Marionette	INFO	Stopped listening on port 35097
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/browser.js :: get rect :: line 230"  data: no]
+get rect@chrome://remote/content/marionette/browser.js:230:7
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.js:2470:3
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2245: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1630512224152	Marionette	INFO	Stopped listening on port 41331
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630512226607	geckodriver	INFO	Listening on 127.0.0.1:58227
+1630512227618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTTFkww"
+1630512228212	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTTFkww/search.json.mozlz4", (void 0)))
+1630512229359	Marionette	INFO	Listening on port 33917
+1630512229437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630515341767	Marionette	INFO	Stopped listening on port 33917
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630515343822	geckodriver	INFO	Listening on 127.0.0.1:34677
+1630515343826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1500.55 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqzH2mY"
+1630515344329	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqzH2mY/search.json.mozlz4", (void 0)))
+1630515345550	Marionette	INFO	Listening on port 34085
+1630515345649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1630516853674	geckodriver	INFO	Listening on 127.0.0.1:44499
+1630516853677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWmyUSI"
+1630516854245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWmyUSI/search.json.mozlz4", (void 0)))
+1630516855541	Marionette	INFO	Listening on port 38447
+1630516855590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630517475224	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630517993491	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630518083200	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630518125756	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+JavaScript error: https://cdn.rlets.com/capture_static/mms/capture.js, line 1: TypeError: i.contentWindow is null
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.warn: "Resource  of root-node was not found."
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.warn: "Resource  of root-node was not found."
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.warn: "Resource  of root-node was not found."
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://cdn.rlets.com/capture_static/mms/capture.js, line 1: TypeError: i.contentWindow is null
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1684: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.warn: "Resource  of root-node was not found."
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.warn: "Resource  of root-node was not found."
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-218-a0e6bddf78f556c0ba98.js, line 2: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+console.error: "out of memory"
+out of memory: undefined
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+DBG-SERVER threw an exception: out of memory
+console.error: "out of memory"
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+1630529012100	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1630529045212	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 141: TypeError: window.document.documentElement is null
+console.warn: "Resource  of root-node was not found."
+1630529090830	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+console.warn: "Resource  of root-node was not found."
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1684: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1684: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+1630530195818	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: "Resource  of root-node was not found."
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+DBG-SERVER threw an exception: out of memory
+console.error: "out of memory"
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+1630536368133	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1630536390101	geckodriver	INFO	Listening on 127.0.0.1:53715
+1630536391112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-gb) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLOT7j2"
+1630536391691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLOT7j2/search.json.mozlz4", (void 0)))
+1630536392764	Marionette	INFO	Listening on port 43869
+1630536392851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630536973580	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630537006741	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630537158824	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630538906728	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1630540097788	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630540787394	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630543883075	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630543902602	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630570551226	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1630572186194	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1630572195925	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1630572240185	Marionette	INFO	Stopped listening on port 43869
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630572251012	geckodriver	INFO	Listening on 127.0.0.1:49649
+1630572251016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0M9uR2"
+1630572251460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0M9uR2/search.json.mozlz4", (void 0)))
+1630572252698	Marionette	INFO	Listening on port 34403
+1630572252730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630582106836	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1630582216005	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1630582311017	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630582363479	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630582431107	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
+1630582679567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1630583421038	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
