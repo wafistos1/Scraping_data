@@ -1932,3 +1932,9 @@ JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-
 JavaScript error: https://static.zdassets.com/web_widget/latest/web-widget-chat-sdk-ad0bca0cd862985f164f.js, line 2: TypeError: this.$Loader is undefined
 1630582679567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
 1630583421038	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1630617976342	Marionette	INFO	Stopped listening on port 34403
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

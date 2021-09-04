@@ -1348,3 +1348,180 @@ JavaScript error: resource://activity-stream/lib/ASRouterTriggerListeners.jsm, l
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1630628622526	geckodriver	INFO	Listening on 127.0.0.1:55739
+1630628623528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.14 (KHTML, like Gecko) Chrome/24.0.1292.0 Safari/537.14" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6ANj1z"
+1630628624388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6ANj1z/search.json.mozlz4", (void 0)))
+1630628627281	Marionette	INFO	Listening on port 36809
+1630628627457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://midasfurniture.com/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://midasfurniture.com/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript error: https://midasfurniture.com/ksa_ar/simas-planter-medium.html, line 2783: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://midasfurniture.com/ksa_ar/rasdan-planter-large.html, line 2783: SyntaxError: "" string literal contains an unescaped line break
+JavaScript error: https://midasfurniture.com/ksa_ar/rasdan-planter-small.html, line 2783: SyntaxError: "" string literal contains an unescaped line break
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 333: unreachable code after return statement
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUUMKST06C4RD8JGJG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUUMKST06C4RD8JGJG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUUMKST06C4RD8JGJG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(timeout: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C2MUNH4ST06C4RD8JETG&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(timeout: https://analytics.tiktok.com/i18n/pixel/identify.js)
+1630683357399	Marionette	INFO	Stopped listening on port 36809
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
