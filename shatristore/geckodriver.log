@@ -11973,3 +11973,231 @@ JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/
 1630108081384	Marionette	INFO	Stopped listening on port 33727
 JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630754690717	geckodriver	INFO	Listening on 127.0.0.1:43005
+1630754691728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.2 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehV3jA9"
+1630754692454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehV3jA9/search.json.mozlz4", (void 0)))
+1630754693776	Marionette	INFO	Listening on port 39861
+1630754693879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: jquery-ui-modules/draggable
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: jquery-ui-modules/position
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/extender/observable_array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/collapsible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/extender/bound-nodes
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: jquery-ui-modules/button
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: jquery-ui-modules/resizable
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: knockoutjs/knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/template/engine
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: jquery-ui-modules/core
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: MSP_ReCaptcha/js/registry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Customer/js/invalidation-rules/website-rule
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/form/adapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/entry-factory
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/utils/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Catalog/js/product/view/product-ids
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/levels-pool
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/utils/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Catalog/js/product/view/product-ids
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/entry-factory
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/levels-pool
+http://requirejs.org/docs/errors.html#scripterror
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/autoselect
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/after-render
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/keyboard
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/mage-init
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Catalog/js/product/view/product-ids
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/levels-pool
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/entry-factory
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/form/adapter/buttons
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Catalog/js/product/view/product-ids-resolver
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/autoselect
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/levels-pool
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/after-render
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/entry-factory
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/autoselect
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/after-render
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/keyboard
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/mage-init
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/class
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/entry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/entry-factory
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/levels-pool
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/utils/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Catalog/js/product/view/product-ids-resolver
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/utils/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/levels-pool
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/utils/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/utils/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/entry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/entry-factory
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/utils/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Catalog/js/product/view/product-ids-resolver
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/levels-pool
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/form/adapter/buttons
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/entry-factory
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/levels-pool
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/utils/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Catalog/js/product/view/product-ids
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/core/class
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/after-render
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/keyboard
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/autoselect
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/levels-pool
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Catalog/js/product/view/product-ids-resolver
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/entry-factory
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/utils/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/view/messages
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: MSP_ReCaptcha/js/ui-messages-mixin
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/entry-factory
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: mage/utils/main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Catalog/js/product/view/product-ids
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/levels-pool
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Catalog/js/product/view/product-ids-resolver
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/keyboard
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/after-render
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/autoselect
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/entry-factory
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/lib/logger/levels-pool
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/model/messageList
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: MSP_ReCaptcha/js/registry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Ui/js/model/messageList
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: MSP_ReCaptcha/js/registry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: MSP_ReCaptcha/js/registry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Customer/js/invalidation-rules/website-rule
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: Magento_Customer/js/invalidation-rules/website-rule
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/_cache/merged/051ffa14c13320649d98b706da460511.js, line 166: Error: Script error for: MSP_ReCaptcha/js/registry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/fotorama/fotorama.js, line 99: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://shatristore.com/pub/static/version1609418842/frontend/Solwin/freego_child/ar_SA/mage/gallery/gallery.js, line 297: TypeError: settings.$elementF.fotorama is not a function
+1630791098011	Marionette	INFO	Stopped listening on port 39861
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

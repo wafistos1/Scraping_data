@@ -4357,3 +4357,108 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1630879585721	geckodriver	INFO	Listening on 127.0.0.1:43039
+1630879585726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD1FC2C"
+1630879586234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD1FC2C/search.json.mozlz4", (void 0)))
+1630879587374	Marionette	INFO	Listening on port 42243
+1630879587469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+
+(evolution-alarm-notify:741117): GLib-GIO-WARNING **: 23:11:24.093: Your application did not unregister from D-Bus before destruction. Consider using g_application_run().
+
+(evolution:741100): GLib-GIO-WARNING **: 23:11:26.114: Your application did not unregister from D-Bus before destruction. Consider using g_application_run().
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/mage/calendar.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/css/styles-m.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_Rewards/css/balance.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_Storelocator/vendor/chosen/chosen.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Wyomind_PointOfSale/css/pointofsale.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/mage/gallery/gallery.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_BannersLite/css/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_ShopbyBase/css/swiper.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_Label/css/amlabel.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_Promo/css/banner.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_Rewards/css/checkout.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Algolia_AlgoliaSearch/internals/autocomplete.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Algolia_AlgoliaSearch/internals/grid.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Algolia_AlgoliaSearch/internals/algolia-reset.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Algolia_AlgoliaSearch/internals/instantsearch.v3.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/css/styles-l.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/css/print.css without a browsingContextID set
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1630880084677	geckodriver	INFO	Listening on 127.0.0.1:55593
+1630880084679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqqoId2"
+1630880085151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqqoId2/search.json.mozlz4", (void 0)))
+1630880086356	Marionette	INFO	Listening on port 38425
+1630880086403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MJRLT6, line 235: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/mage/calendar.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/css/styles-m.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_Rewards/css/balance.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_Storelocator/vendor/chosen/chosen.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Wyomind_PointOfSale/css/pointofsale.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/mage/gallery/gallery.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_BannersLite/css/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_ShopbyBase/css/swiper.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_Label/css/amlabel.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_Promo/css/banner.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Amasty_Rewards/css/checkout.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Algolia_AlgoliaSearch/internals/autocomplete.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Algolia_AlgoliaSearch/internals/grid.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Algolia_AlgoliaSearch/internals/algolia-reset.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/Algolia_AlgoliaSearch/internals/instantsearch.v3.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/css/styles-l.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.tavolashop.com/static/frontend/MageBig/martfury_layout01/en_US/css/print.css without a browsingContextID set
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+console.warn: "Resource  of root-node was not found."
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+JavaScript warning: https://fast.wistia.net/assets/external/E-v1.js, line 2: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+console.warn: "Resource  of root-node was not found."
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+1630949909342	Marionette	INFO	Stopped listening on port 38425
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

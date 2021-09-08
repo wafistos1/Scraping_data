@@ -1,0 +1,44 @@
+1630797186007	geckodriver	INFO	Listening on 127.0.0.1:40501
+1630797186011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletPVGkl"
+1630797186483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletPVGkl/search.json.mozlz4", (void 0)))
+1630797187550	Marionette	INFO	Listening on port 36637
+1630797187624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630797214088	geckodriver	INFO	Listening on 127.0.0.1:39081
+1630797215091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; de-DE) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeoJDhO"
+1630797215566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeoJDhO/search.json.mozlz4", (void 0)))
+1630797216635	Marionette	INFO	Listening on port 44663
+1630797216705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630797217532	Marionette	INFO	Stopped listening on port 36637
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
