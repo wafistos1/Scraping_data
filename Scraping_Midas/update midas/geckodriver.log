@@ -1877,3 +1877,9 @@ JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 
 JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
 JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
 JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-KFNJZF, line 305: unreachable code after return statement
+1631267938968	Marionette	INFO	Stopped listening on port 37967
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
