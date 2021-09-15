@@ -260,3 +260,15 @@ console.log: WebExtensions: reset-default-search: No addons in our list are inst
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 1627775912521	Marionette	INFO	Stopped listening on port 42433
+1631644166017	geckodriver	INFO	Listening on 127.0.0.1:56503
+1631644166019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefHtXyG"
+1631644166722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefHtXyG/search.json.mozlz4", (void 0)))
+1631644167863	Marionette	INFO	Listening on port 40285
+1631644167977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631644212611	Marionette	INFO	Stopped listening on port 40285
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

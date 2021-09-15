@@ -751,3 +751,33 @@ JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, l
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1631441135174	geckodriver	INFO	Listening on 127.0.0.1:48403
+1631441135179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2117.157 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVYKLNP"
+1631441135813	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVYKLNP/search.json.mozlz4", (void 0)))
+1631441137086	Marionette	INFO	Listening on port 37867
+1631441137195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 221: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-b5b91ac52fb46c06514d67c4a2715f96.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 221: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 221: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-b5b91ac52fb46c06514d67c4a2715f96.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 221: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 221: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-b5b91ac52fb46c06514d67c4a2715f96.js, line 6968: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 221: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TNJD8VS, line 221: unreachable code after return statement
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-b5b91ac52fb46c06514d67c4a2715f96.js, line 6968: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+JavaScript error: https://widget.spotii.me/v1/javascript/priceWidget-ar002.js, line 234: TypeError: tagetContainer is null
+1631444745043	Marionette	INFO	Stopped listening on port 37867
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
